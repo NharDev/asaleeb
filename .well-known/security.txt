@@ -1,0 +1,4 @@
+# أساليب — الإبلاغ عن ثغرة أمنية / Report a security issue
+Contact: mailto:info@example.com
+Expires: 2027-10-17T00:00:00.000Z
+Preferred-Languages: ar, en

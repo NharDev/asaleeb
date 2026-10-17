@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nhardev.github.io/asaleeb/sitemap.xml

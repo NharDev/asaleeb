@@ -1,0 +1,2 @@
+/*! © 2026 أساليب — جميع الحقوق محفوظة. يُمنع النسخ أو إعادة الاستخدام دون إذن كتابي. */
+(function(){var e=document.documentElement,t=null;if(window.top!==window.self){e.style.display="none";try{window.top.location=window.self.location.href}catch(o){}return}try{t=localStorage.getItem("asaleeb.theme")}catch(o){}t!=="light"&&t!=="dark"&&(t="auto");var a=t==="dark"||t==="auto"&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches;e.setAttribute("data-theme",a?"dark":"light"),e.setAttribute("data-theme-pref",t),e.classList.remove("no-js")})();
